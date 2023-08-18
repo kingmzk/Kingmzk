@@ -1,4 +1,9 @@
-![logo](https://github.com/kingmzk/kingmzk/blob/main/background.jpg)
+<img src="https://github.com/kingmzk/kingmzk/blob/main/background1.png" alt="logo" style="width: 100%; height: 200px; display: block;">
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mohammed Zakria Khan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
