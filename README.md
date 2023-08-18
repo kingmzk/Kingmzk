@@ -1,3 +1,4 @@
+![logo](https://github.com/kingmzk/kingmzk/blob/main/_08072685-6de7-4946-bb82-ff9ba1438bea.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Zakria Khan</h1>
 <h3 align="center">A passionate Full Stack Developer developer</h3>
 
